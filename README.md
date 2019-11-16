@@ -8,7 +8,7 @@ THE ABOVE WILL BE DELETED LATER
 
 Decided to go to in a different direction. Courses will be in a University format. 000 to 999 where 000 to 099 is high school level. 100 to 499 undergrad, 500 to 799 grad and 800 to 999 professional.
 
-Courses, classes and tests will be created and maintained by the community not individuals. Therefore all skycoin goes to the students. Developers, coin contributers, node operators etc will make their money by investing in skycoin. This will ensure all do their best to provide a good product.
+Courses, classes and tests will be created and maintained by the community not individuals. Therefore all skycoin goes to the students. Developers, coin contributers, node operators etc will make their money by investing in skycoin. This will ensure all do their best to provide a good product. May do some marketing such as, "buy 10 Skycoin and contribute 2". I believe the 8 will more than go up in value to cover the loss of the two
 
 Thinking about using Moodle or another open source LMS to develop the courses. Courses can have the option to have prerequisites or substitutions. Also can have requirements or options to retake courses after a period of time or more advanced courses containing same material.
 
