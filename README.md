@@ -20,3 +20,13 @@ Students earn the one coin at the beginning but as the system grows they earn th
 
 As system grows, nodes can be divided randomly into subnets for subject, course, test etc. Node operators will make money by investing in skycoin and accumulating coinhours.
 
+UPDATE#3
+Going to go a different route again. No contributing Skycoin necessary. One million PTeD coins per year will be created or unlocked up to 100 years. Students will earn the coins based on the level of the test they pass and the number students taking/passing tests. Do the math and the early adopters can earn a lot of coins.
+
+Probably will do a combination of proof of work (the tests) and proof of stake ( the amount of coins you hold plus how far you've advanced in your education) along with Obelisk. You earn more the further along you are so you risk losing your status if you do something malicious and have to start from the beginning. Mind you my understanding of the skycoin code is still in it's early stages and things will change as I progress.
+
+Only will be one coin but multiple blockchains as the network grows. Pay will be determined by an algorithm based on course number and number of students to keep it at one million coins per year.
+
+May let block makers and consensus nodes earn a percentage more than regular students. Everyone earns by taking tests and earning coinhours. Like I said, early adopters have the chance to earn a lot of coins.
+
+Still hoping the best educators out there will contribute to and maintain the courses and tests so everyone out there can have a world class education and earn a living doing it.
