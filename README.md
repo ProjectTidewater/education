@@ -39,3 +39,6 @@ Individuals, groups, educational institutions or others can have their own block
 
 The block chain and each test must be approved by holders of PTeD currency. They must hold enough such that it's not likely they will approve the tests so they can profit from taking the tests.
 If there is some questions about the honesty of the block chain,the holders of PTeD can vote to disable it. It's probably best for each block chain of tests have a public face so there can be accountability. Not sure yet if I want to pay the block makers yet or just let them earn coinhours. If they do get a share, probably won't be more than one percent.
+
+#update #5
+Total revamp. Will leave testing up to educators/institutions. Anyone can join the system but must be approved by others already in the system. More info later
